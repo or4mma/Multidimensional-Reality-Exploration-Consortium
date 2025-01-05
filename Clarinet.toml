@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.dimensional-construct-nft]
+path = 'contracts/dimensional-construct-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.theory-management]
 path = 'contracts/theory-management.clar'
 clarity_version = 2
